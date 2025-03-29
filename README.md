@@ -1,7 +1,3 @@
-<img align="right" src="https://profile-counter.glitch.me/JRobertoFluy/count.svg?"  />
-
-###
-
 <h1 align="left">About Me</h1>
 
 ###
@@ -70,11 +66,19 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JRobertoFluy/JRobertoFluy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JRobertoFluy/JRobertoFluy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JRobertoFluy/JRobertoFluy/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JRobertoFluy.JRobertoFluy&left_color=black&right_color=bisque"  />
 
 ###
 
