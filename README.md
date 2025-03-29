@@ -1,8 +1,14 @@
-<h1 align="left">About me</h1>
+<h1 align="left">About Me</h1>
 
 ###
 
-<p align="left">🛡️ Especialista em Cibersegurança | 🌐 Governança | 🚀 Inovação Segura<br><br> Apaixonado por Segurança da Informação e Gestão de Riscos, com experiência em Python, Power BI, SIEM e frameworks como NIST, ISO 27001 e COBIT. Especialista em desenvolvimento seguro, análise de riscos e computação em nuvem, sempre buscando inovação para proteger dados e fortalecer a governança de TI. <br><br>📊🔐 #CyberSecurity #RiskManagement</p>
+<p align="left">🛡️ Especialista em Cibersegurança | 🌐 Governança | 🚀 Inovação Segura<br><br>Especialista em Segurança da Informação e Gestão de Riscos, com experiência em Python, Power BI, SIEM e frameworks como NIST, ISO 27001 e COBIT. Atuação em desenvolvimento seguro, análise de riscos e computação em nuvem, sempre buscando inovação para proteger dados e fortalecer a governança de TI. <br><br>📊🔐 #CyberSecurity #RiskManagement</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JRobertoFluy/count.svg?"  />
+</div>
 
 ###
 
@@ -30,7 +36,7 @@
 
 ###
 
-<p align="left">Consultoria inicial sobre governança ou alinhamento de TI com metas de negócio.<br>Mapeamento de processos (As-Is/To-Be) ou definição de KPIs em Power BI.<br>Estruturação de políticas de TI ou suporte em projetos de transformação digital.</p>
+<p align="left">- Consultoria inicial sobre governança ou alinhamento de TI com metas de negócio.<br>- Mapeamento de processos (As-Is/To-Be) ou definição de KPIs em Power BI.<br>- Estruturação de políticas de TI ou suporte em projetos de transformação digital.</p>
 
 ###
 
@@ -91,15 +97,25 @@
 
 ###
 
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JRobertoFluy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JRobertoFluy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=JRobertoFluy&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JRobertoFluy&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
