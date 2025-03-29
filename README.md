@@ -76,9 +76,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JRobertoFluy.JRobertoFluy&left_color=black&right_color=bisque"  />
+<img align="right" src="https://profile-counter.glitch.me/JRobertoFluy/count.svg?"  />
 
 ###
 
