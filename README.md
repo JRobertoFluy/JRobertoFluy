@@ -4,6 +4,12 @@
 
 <p align="left">🛡️ Especialista em Cibersegurança | 🌐 Governança | 🚀 Inovação Segura<br><br>Especialista em Segurança da Informação e Gestão de Riscos, com experiência em Python, Power BI, SIEM e frameworks como NIST, ISO 27001 e COBIT. Atuação em desenvolvimento seguro, análise de riscos e computação em nuvem, sempre buscando inovação para proteger dados e fortalecer a governança de TI. <br><br>📊🔐 #CyberSecurity #RiskManagement</p>
 
+<h2 align="left">🔒 Habilidades Técnicas e Estratégicas:</h2>
+
+###
+
+<p align="left">Governança: ISO 27001, LGPD, GDPR, COBIT, ITIL, ISO 22301, ISO 20000, ISO 9001<br><br>Cibersegurança: SIEM, EDR, MFA, NIST CSF, CIS Controls, Família ISO 27k<br><br>Análise de Dados: Power BI, Excel Avançado (com foco em métricas de segurança)<br><br>Tecnologias: [ex.: Python para automação de segurança, CloudSec, <br><br>Processos: Definir e implantar  políticas e processos, gerenciar riscos e melhorar a maturidade da TI/SI, assegurar alinhamento com normas e frameworks (como ISO 27001, COBIT, ITIL e ISO 20000.)</p>
+
 ###
 
 <h2 align="left">Portfólio de Serviços de Consultoria Empresarial</h2>
