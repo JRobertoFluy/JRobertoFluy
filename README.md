@@ -72,8 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JRobertoFluy/JRobertoFluy/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
