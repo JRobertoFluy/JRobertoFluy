@@ -4,11 +4,6 @@
 
 <p align="left">🛡️ Especialista em Cibersegurança | 🌐 Governança | 🚀 Inovação Segura<br><br>Especialista em Segurança da Informação e Gestão de Riscos, com experiência em Python, Power BI, SIEM e frameworks como NIST, ISO 27001 e COBIT. Atuação em Gestão de riscos, Gestão de Continuidade de Negócios, sempre buscando inovação para proteger dados e fortalecer a governança de TI. <br><br>📊🔐 #CyberSecurity #RiskManagement</p>
 
-
-
-###
-
-
 ###
 
 <img align="right" src="https://profile-counter.glitch.me/JRobertoFluy/count.svg?"  />
@@ -31,7 +26,11 @@
 </div>
 
 ###
-###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JRobertoFluy/JRobertoFluy/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h2 align="left">Projetos Realizados</h2>
