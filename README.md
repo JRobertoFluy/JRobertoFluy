@@ -31,6 +31,8 @@
 </div>
 
 ###
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Projeto_ISO27001 )](https://github.com/anuraghazra/github-readme-stats)
+###
 
 <h2 align="left">Tecnologias</h2>
 
