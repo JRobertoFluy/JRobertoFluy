@@ -4,6 +4,57 @@
 
 <p align="left">🛡️ Especialista em Cibersegurança | 🌐 Governança | 🚀 Inovação Segura<br><br>Especialista em Segurança da Informação e Gestão de Riscos, com experiência em Python, Power BI, SIEM e frameworks como NIST, ISO 27001 e COBIT. Atuação em desenvolvimento seguro, análise de riscos e computação em nuvem, sempre buscando inovação para proteger dados e fortalecer a governança de TI. <br><br>📊🔐 #CyberSecurity #RiskManagement</p>
 
+
+
+###
+
+
+###
+
+<img align="right" src="https://profile-counter.glitch.me/JRobertoFluy/count.svg?"  />
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jose-roberto-risk/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://bit.ly/Fluydez-FaleConosco" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="robertofluypro@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/joser.jesus/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JRobertoFluy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=JRobertoFluy&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JRobertoFluy&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 <h2 align="left">🔒 Habilidades Técnicas e Estratégicas:</h2>
 
 ###
@@ -70,51 +121,4 @@
 
 <p align="left">- Sessão introdutória sobre segurança, riscos ou governança para equipes.<br>- Workshop prático sobre LGPD, phishing ou frameworks como COBIT/ISO 27001.<br>- Programa completo de capacitação com materiais e simulações práticas personalizadas.</p>
 
-###
 
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/JRobertoFluy/count.svg?"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jose-roberto-risk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://bit.ly/Fluydez-FaleConosco" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="robertofluypro@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/joser.jesus/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Tecnologias</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JRobertoFluy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JRobertoFluy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=JRobertoFluy&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JRobertoFluy&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
