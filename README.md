@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Governança: ISO 27001, LGPD, GDPR, COBIT, ITIL, ISO 22301, ISO 20000, ISO 9001<br><br>Cibersegurança: SIEM, EDR, MFA, NIST CSF, CIS Controls, Família ISO 27k<br><br>Análise de Dados: Power BI, Excel Avançado (com foco em métricas de segurança)<br><br>Tecnologias: [ex.: Python para automação de segurança, CloudSec, <br><br>Processos: Definir e implantar  políticas e processos, gerenciar riscos e melhorar a maturidade da TI/SI, assegurar alinhamento com normas e frameworks (como ISO 27001, COBIT, ITIL e ISO 20000.)</p>
+<p align="left"><b>Governança:</b> ISO 27001, LGPD, GDPR, COBIT, ITIL, ISO 22301, ISO 20000, ISO 9001<br><br>Cibersegurança: SIEM, EDR, MFA, NIST CSF, CIS Controls, Família ISO 27k<br><br>Análise de Dados: Power BI, Excel Avançado (com foco em métricas de segurança)<br><br>Tecnologias: [ex.: Python para automação de segurança, CloudSec, <br><br>Processos: Definir e implantar  políticas e processos, gerenciar riscos e melhorar a maturidade da TI/SI, assegurar alinhamento com normas e frameworks (como ISO 27001, COBIT, ITIL e ISO 20000.)</p>
 
 ###
 
