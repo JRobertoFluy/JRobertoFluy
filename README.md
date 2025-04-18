@@ -19,23 +19,6 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
 ###### 📊 Data & Analytics
 ---
 
-### ⚙️ Ferramentas e Tecnologias
-- Power BI, TopDesk, ServiceNow, Miro, Excel Avançado, Bizagi
-- Ferramentas de logs, SIEM, EDR e scanners de vulnerabilidades
-- Gestão de workflows e automação de processos
-
----
-
-## 📈 Compromissos Profissionais
-
-- 🔒 Elevar a maturidade organizacional em Segurança da Informação
-- 🚨 Reduzir riscos cibernéticos com base em frameworks reconhecidos
-- 📚 Disseminar conhecimento e cultura de segurança nas organizações
-- 📊 Promover decisões baseadas em dados (Data-Driven Security)
-- 🛡️ Contribuir com a resiliência e conformidade regulatória
-
----
-
 ### 🔗Conecte-se comigo
 
 <div align="left">
