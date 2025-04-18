@@ -6,6 +6,19 @@ Profissional com mais de 17 anos de experiência em Segurança da Informação, 
 
 ---
 
+### 📊 GitHub Stats
+
+![José Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRobertoFluy&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRobertoFluy&layout=compact)
+
+---
+
+## 🧩 **Projetos em Destaque**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Projeto_ISO27001&theme=ayu-mirage)](https://github.com/JRobertoFluy/Projeto_ISO27001)
+
+---
+
 ## ⚙️ **Habilidades Técnicas e Estratégicas**
 
 🔐 **Governança e Compliance**  
@@ -23,12 +36,6 @@ Profissional com mais de 17 anos de experiência em Segurança da Informação, 
 💻 **Tecnologias & Automação**  
 - Python para automação de segurança  
 - CloudSec (AWS, Azure)
-
----
-
-## 🧩 **Projetos em Destaque**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Projeto_ISO27001&theme=ayu-mirage)](https://github.com/JRobertoFluy/Projeto_ISO27001)
 
 ---
 
@@ -74,12 +81,6 @@ Profissional com mais de 17 anos de experiência em Segurança da Informação, 
 
 ---
 
-### 📊 GitHub Stats
-
-![José Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRobertoFluy&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRobertoFluy&layout=compact)
-
----
 
 🔐 *Segurança é mais do que tecnologia — é cultura, processo e visão estratégica.*  
 💼 *Vamos transformar riscos em oportunidades com inteligência e inovação.*
