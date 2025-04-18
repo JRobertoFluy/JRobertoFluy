@@ -49,6 +49,9 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
 
 
 ### Ações Voluntárias
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=AcoesSociais&theme=gruvbox_light)](https://github.com/JRobertoFluy/AcoesSociais)
+
 ---
 
 ## ⚙️ **Habilidades Técnicas e Estratégicas**
