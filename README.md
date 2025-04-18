@@ -36,7 +36,7 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
 ### 📊 GitHub Stats
 
 ![José Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRobertoFluy&show_icons=true&theme=gruvbox_light)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRobertoFluy&layout=compact)
+
 
 ---
 
