@@ -43,6 +43,7 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
 ## 🧩 **Projetos em Destaque**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Portfolio&theme=gruvbox_light)](https://github.com/JRobertoFluy/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Portfolio&theme=gruvbox_light)](https://github.com/JRobertoFluy/Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Projeto_ISO27001&theme=gruvbox_light)](https://github.com/JRobertoFluy/Projeto_ISO27001)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=GovernancaTI&theme=gruvbox_light)](https://github.com/JRobertoFluy/GovernancaTI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Skills&theme=gruvbox_light)](https://github.com/JRobertoFluy/Skills)
