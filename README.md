@@ -4,7 +4,7 @@
 
 # 👨‍💼 Sobre Mim
 
-**P**rofissional com mais de **15 anos de experiência** em **Segurança da Informação**, **Governança de TI** e **Cibersegurança**, com forte atuação na **redução de riscos cibernéticos**, **implementação de frameworks internacionais** e **gestão de conformidade em ambientes regulatórios complexos**.
+**P**rofissional com mais de **17 anos de experiência** em **Segurança da Informação**, **Governança de TI** e **Cibersegurança**, com forte atuação na **redução de riscos cibernéticos**, **implementação de frameworks internacionais** e **gestão de conformidade em ambientes regulatórios complexos**.
 
 Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em **inovação, controle e resiliência operacional**. Atuei em projetos de certificação com as normas **ISO 27001, ISO 27701, ISO 22301, LGPD, NIST CSF e COBIT**, liderando iniciativas de **resposta a incidentes (CSIRT)**, **análise de riscos**, **inteligência de ameaças (Threat Intelligence)** e **visualização de dados com Power BI**.
 
