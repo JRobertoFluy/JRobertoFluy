@@ -1,133 +1,86 @@
-<h1 align="left">Bem-vindo ao perfil José Roberto</h1>
+# 👋 Bem-vindo ao perfil de **José Roberto**
 
-###
+🛡️ **Especialista Sênior em Cibersegurança** | 🌐 **Governança de TI** | 🚀 **Inovação Segura**
 
-<p align="left">🛡️ Especialista em Cibersegurança | 🌐 Governança | 🚀 Inovação Segura<br><br>Especialista em Segurança da Informação e Gestão de Riscos, com experiência em Python, Power BI, SIEM e frameworks como NIST, ISO 27001 e COBIT. Atuação em Gestão de riscos, Gestão de Continuidade de Negócios, sempre buscando inovação para proteger dados e fortalecer a governança de TI. <br><br>📊🔐 #CyberSecurity #RiskManagement</p>
+Profissional com mais de 17 anos de experiência em Segurança da Informação, Gestão de Riscos e Governança de TI. Atuação estratégica na implementação de frameworks como ISO 27001, NIST CSF, COBIT, ITIL e LGPD, com foco na proteção de dados, mitigação de riscos cibernéticos e elevação da maturidade organizacional.
 
+---
 
+## ⚙️ **Habilidades Técnicas e Estratégicas**
 
+🔐 **Governança e Compliance**  
+- ISO 27001, LGPD, GDPR, ISO 22301, ISO 20000, ISO 9001  
+- COBIT, ITIL, NIST CSF, CIS Controls  
 
-###
+🧠 **Cibersegurança**  
+- SIEM, EDR, MFA, resposta a incidentes, análise de vulnerabilidades  
+- Políticas e processos de segurança, campanhas de conscientização  
 
+📊 **Análise de Dados & Indicadores**  
+- Power BI e Excel Avançado focado em métricas de segurança  
+- Construção de dashboards para suporte à tomada de decisão  
 
-###
+💻 **Tecnologias & Automação**  
+- Python para automação de segurança  
+- CloudSec (AWS, Azure)
 
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jose-roberto-risk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://bit.ly/Fluydez-FaleConosco" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="robertofluypro@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/joser.jesus/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+## 🧩 **Projetos em Destaque**
 
-###
-
-<img src="https://raw.githubusercontent.com/ JRobertoFluy/ JRobertoFluy/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Projetos Realizados</h2>
-
-###
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Projeto_ISO27001)](https://github.com/JRobertoFluy/Projeto_ISO27001)
 
-###
+---
 
-<h2 align="left">Tecnologias</h2>
+## 🛠️ **Portfólio de Serviços de Consultoria**
 
-###
-###
+### 🔒 Segurança Cibernética
+- GAP Analysis, implementação de controles (SIEM, MFA)
+- Simulação de resposta a incidentes, criação de políticas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
+### 📉 Gestão de Riscos
+- Avaliação de riscos com ISO 31000 e NIST
+- Desenvolvimento de BIA, BCP e DRP
 
-###
+### 🏛️ Governança de TI
+- Estruturação de políticas, definição de KPIs em Power BI
+- Apoio a projetos de transformação digital e auditorias
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JRobertoFluy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+### 🛡️ Privacidade e Proteção de Dados
+- Diagnóstico e adequação LGPD/GDPR
+- Implementação de Privacy by Design e RoPA
 
-  <img src="https://streak-stats.demolab.com?user=JRobertoFluy&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JRobertoFluy&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+### 📊 Análise de Dados para Segurança
+- Criação de dashboards e relatórios executivos
+- Análise de logs e detecção de ameaças
 
-###
-<h2 align="left">🔒 Habilidades Técnicas e Estratégicas:</h2>
+### 📚 Treinamentos e Cultura de Segurança
+- Workshops, simulações de phishing e capacitações práticas
+- Programas de conscientização personalizados
 
-###
+---
 
-<p align="left"><b>Governança:</b> ISO 27001, LGPD, GDPR, COBIT, ITIL, ISO 22301, ISO 20000, ISO 9001<br><br>Cibersegurança: SIEM, EDR, MFA, NIST CSF, CIS Controls, Família ISO 27k<br><br>Análise de Dados: Power BI, Excel Avançado (com foco em métricas de segurança)<br><br>Tecnologias: Python para automação de segurança, CloudSec, <br><br>Processos: Definir e implantar  políticas e processos, gerenciar riscos e melhorar a maturidade da TI/SI, assegurar alinhamento com normas e frameworks (como ISO 27001, COBIT, ITIL e ISO 20000.)</p>
+## 🌍 Conecte-se comigo
 
-###
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jrobertofluy)  
+📧 E-mail: jrobertofluy@gmail.com  
+📱 WhatsApp / Instagram: (coloque os links, se quiser que eu insira)
 
-<h2 align="left">🏛 Portfólio de Serviços de Consultoria Empresarial</h2>
+---
 
-###
+### 🐍 Snake Animation
 
-<h3 align="left">Consultoria em Segurança Cibernética:</h3>
+![snake gif](https://github.com/JRobertoFluy/JRobertoFluy/blob/output/github-contribution-grid-snake.svg)
 
-###
+---
 
-<p align="left">- Análise inicial de vulnerabilidades ou orientação sobre políticas de segurança. (GAP Analysis)<br>- Planejamento de controles ou treinamento básico em segurança cibernética.<br>- Implementação de soluções (ex.: SIEM, MFA) ou simulação de resposta a incidentes.</p>
+### 📊 GitHub Stats
 
-###
+![José Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRobertoFluy&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRobertoFluy&layout=compact)
 
-<h3 align="left">Gestão Estratégica de Riscos:</h3>
+---
 
-###
-
-<p align="left">- Identificação preliminar de riscos ou revisão de matriz existente.<br>- Desenvolvimento de planos de ação ou análise detalhada com ISO 31000/NIST.<br>- Elaboração de BCP/DRP ou avaliação completa de riscos com relatório executivo.</p>
-
-###
-
-<h3 align="left">Governança Corporativa de TI:</h3>
-
-###
-
-<p align="left">- Consultoria inicial sobre governança ou alinhamento de TI com metas de negócio.<br>- Mapeamento de processos (As-Is/To-Be) ou definição de KPIs em Power BI.<br>- Estruturação de políticas de TI ou suporte em projetos de transformação digital.</p>
-
-###
-
-<h3 align="left">Consultoria em Privacidade e Proteção de Dados:</h3>
-
-###
-
-<p align="left">- Diagnóstico inicial de conformidade com LGPD/GDPR ou orientação sobre RoPA.<br>- Planejamento de adequação à regulamentação ou treinamento em privacidade.<br>- Implementação de Privacy by Design ou preparação para certificação ISO 27701/PCI DSS.</p>
-
-###
-
-<h3 align="left">Auditoria e Conformidade Empresarial:</h3>
-
-###
-
-<p align="left">- Revisão inicial de controles ou preparação para auditoria.<br>- Análise detalhada de conformidade com ISO 27001/SOX ou elaboração de relatórios.<br>- Condução de auditoria interna ou validação de ações corretivas com plano de melhoria.</p>
-
-###
-
-<h3 align="left">Análise de Dados para Tomada de Decisão:</h3>
-
-###
-
-<p align="left">- Consultoria inicial sobre KPIs ou análise de dados existente.<br>- Criação de dashboards básicos em Power BI ou mapeamento de processos com Bizagi.<br>- Desenvolvimento de relatórios executivos ou análise avançada de logs/threats.</p>
-
-###
-
-<h3 align="left">Treinamento e Cultura Organizacional:</h3>
-
-###
-
-<p align="left">- Sessão introdutória sobre segurança, riscos ou governança para equipes.<br>- Workshop prático sobre LGPD, phishing ou frameworks como COBIT/ISO 27001.<br>- Programa completo de capacitação com materiais e simulações práticas personalizadas.</p>
-
+🔐 *Segurança é mais do que tecnologia — é cultura, processo e visão estratégica.*  
+💼 *Vamos transformar riscos em oportunidades com inteligência e inovação.*
 
