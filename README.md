@@ -8,7 +8,7 @@ Profissional com mais de 17 anos de experiência em Segurança da Informação, 
 
 ### 📊 GitHub Stats
 
-![José Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRobertoFluy&show_icons=true&theme=radical)  
+![José Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRobertoFluy&show_icons=true&theme=gruvbox_light)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRobertoFluy&layout=compact)
 
 ---
