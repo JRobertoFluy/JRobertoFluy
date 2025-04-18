@@ -54,26 +54,6 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
 
 ---
 
-## ⚙️ **Habilidades Técnicas e Estratégicas**
-
-🔐 **Governança e Compliance**  
-- ISO 27001, LGPD, GDPR, ISO 22301, ISO 20000, ISO 9001  
-- COBIT, ITIL, NIST CSF, CIS Controls  
-
-🧠 **Cibersegurança**  
-- SIEM, EDR, MFA, resposta a incidentes, análise de vulnerabilidades  
-- Políticas e processos de segurança, campanhas de conscientização  
-
-📊 **Análise de Dados & Indicadores**  
-- Power BI e Excel Avançado focado em métricas de segurança  
-- Construção de dashboards para suporte à tomada de decisão  
-
-💻 **Tecnologias & Automação**  
-- Python para automação de segurança  
-- CloudSec (AWS, Azure)
-
----
-
 ### 🐍 Snake Animation
 
 ![snake gif](https://github.com/JRobertoFluy/JRobertoFluy/blob/output/github-contribution-grid-snake.svg)
