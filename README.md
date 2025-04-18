@@ -26,14 +26,11 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+🌐 
+📧
 
 ###
-
-###[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/jrobertojs/)  
-🌐 
-📧 
-
-
+ 
 ---
 
 ### 📊 GitHub Stats
@@ -48,6 +45,7 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Projeto_ISO27001&theme=gruvbox_light)](https://github.com/JRobertoFluy/Projeto_ISO27001)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=GovernancaTI&theme=gruvbox_light)]([https://github.com/JRobertoFluy/Projeto_ISO27001](https://github.com/JRobertoFluy/GovernancaTI))
 
+### Ações Voluntárias
 ---
 
 ## ⚙️ **Habilidades Técnicas e Estratégicas**
