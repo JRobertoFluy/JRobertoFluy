@@ -28,7 +28,7 @@ Profissional com mais de 17 anos de experiência em Segurança da Informação, 
 
 ## 🧩 **Projetos em Destaque**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Projeto_ISO27001)](https://github.com/JRobertoFluy/Projeto_ISO27001)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Projeto_ISO27001&theme=ayu-mirage)](https://github.com/JRobertoFluy/Projeto_ISO27001)
 
 ---
 
