@@ -10,13 +10,13 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
 
 ---
 
-### 🛠️ Habilidades Técnicas
----
-##### 🔐 Segurança da Informação e Cibersegurança
+### 🛠️ Habilidades Técnicas:
 
-##### 🧭 Governança de TI
+###### 🔐 Segurança da Informação e Cibersegurança
 
-##### 📊 Data & Analytics
+###### 🧭 Governança de TI
+
+###### 📊 Data & Analytics
 ---
 
 ### ⚙️ Ferramentas e Tecnologias
