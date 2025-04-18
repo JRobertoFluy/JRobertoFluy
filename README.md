@@ -43,7 +43,8 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
 ## 🧩 **Projetos em Destaque**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Projeto_ISO27001&theme=gruvbox_light)](https://github.com/JRobertoFluy/Projeto_ISO27001)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=GovernancaTI&theme=gruvbox_light)]([https://github.com/JRobertoFluy/Projeto_ISO27001](https://github.com/JRobertoFluy/GovernancaTI))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRobertoFluy&repo=Skills&theme=gruvbox_light)](https://github.com/JRobertoFluy/Skills)
+
 
 ### Ações Voluntárias
 ---
@@ -65,42 +66,6 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
 💻 **Tecnologias & Automação**  
 - Python para automação de segurança  
 - CloudSec (AWS, Azure)
-
----
-
-## 🛠️ **Portfólio de Serviços de Consultoria**
-
-### 🔒 Segurança Cibernética
-- GAP Analysis, implementação de controles (SIEM, MFA)
-- Simulação de resposta a incidentes, criação de políticas
-
-### 📉 Gestão de Riscos
-- Avaliação de riscos com ISO 31000 e NIST
-- Desenvolvimento de BIA, BCP e DRP
-
-### 🏛️ Governança de TI
-- Estruturação de políticas, definição de KPIs em Power BI
-- Apoio a projetos de transformação digital e auditorias
-
-### 🛡️ Privacidade e Proteção de Dados
-- Diagnóstico e adequação LGPD/GDPR
-- Implementação de Privacy by Design e RoPA
-
-### 📊 Análise de Dados para Segurança
-- Criação de dashboards e relatórios executivos
-- Análise de logs e detecção de ameaças
-
-### 📚 Treinamentos e Cultura de Segurança
-- Workshops, simulações de phishing e capacitações práticas
-- Programas de conscientização personalizados
-
----
-
-## 🌍 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jrobertofluy)  
-📧 E-mail: jrobertofluy@gmail.com  
-📱 WhatsApp / Instagram: (coloque os links, se quiser que eu insira)
 
 ---
 
