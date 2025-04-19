@@ -29,6 +29,10 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
 🌐 
 📧
 
+<div align="right">
+  <img src="https://profile-counter.glitch.me/ JRobertoFluy/count.svg?"  />
+</div>
+
 ###
  
 ---
