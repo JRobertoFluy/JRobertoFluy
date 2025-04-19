@@ -25,6 +25,11 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
   <a href="https://www.linkedin.com/in/jose-roberto-risk/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+ 
+  <a href="https://www.instagram.com/joser.jesus/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+
 </div>
 🌐 
 📧
@@ -33,18 +38,17 @@ Tenho perfil **estratégico, analítico e orientado a resultados**, com foco em 
   <img src="https://profile-counter.glitch.me/ JRobertoFluy/count.svg?"  />
 </div>
 
-###
  
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JRobertoFluy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JRobertoFluy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="130" alt="stats graph" />
   
-  <img src="https://streak-stats.demolab.com?user=JRobertoFluy&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=JRobertoFluy&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JRobertoFluy&radius=16&theme=gruvbox_light&area=true&order=5" height="300" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JRobertoFluy&radius=16&theme=gruvbox_light&area=true&order=5" height="230" alt="activity graph" />
 </div>
 
 
